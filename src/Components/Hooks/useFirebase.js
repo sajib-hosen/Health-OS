@@ -63,6 +63,7 @@ const useFirebase = () => {
         })
     }
 
+    // git learning
 
     // registration new user with email and password =======
     const registerUser = (name, email, password, navigate) =>{
